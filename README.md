@@ -1,3 +1,3 @@
 # Lardom
 
-En plats för lärdom
+En plats för lärdomar!
